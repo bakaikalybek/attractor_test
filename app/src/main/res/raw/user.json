@@ -1,0 +1,16 @@
+{
+  "first_name": "Bakai",
+  "photo" : "https://drive.google.com/file/d/1858b3ygEjbaIxNRY6w-LoepfQFrItGzX/view?usp=sharing",
+  "second_name": "Kalybekov",
+  "education": 2,
+  "company": [
+    {
+      "name": "Aloe Nettech Inc.",
+      "position": "Android Developer"
+    },
+    {
+      "name": "NurTelecom",
+      "position": "Android Developer"
+    }
+  ]
+}

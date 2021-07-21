@@ -1,6 +1,5 @@
 package kg.bakai.test.utils
 
-import com.beust.klaxon.Klaxon
 import com.google.gson.Gson
 import kg.bakai.test.domain.model.User
 import java.io.BufferedReader
